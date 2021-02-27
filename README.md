@@ -1,2 +1,2 @@
 # Names-generator
-Names generator using JS
+Names generator using JS and Ajax
